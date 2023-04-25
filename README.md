@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Frederico!
 - 🇧🇷 I live in Brazil.
 - 👀 I’m interested in Desktop Programming, Web Programming, Bot Programming, Scraping and AI.
-- 🌱 I’m currently learning react, some types of databases and payments with stripe.
+- 🌱 I’m currently in my way to master vim/neovim.
 - 🌴 I’m looking to make new programmer friends.
 - 💬 Email me at: fredericoq@proton.me
