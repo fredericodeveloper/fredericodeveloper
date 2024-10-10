@@ -8,25 +8,25 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
-- 👋 Hi, I’m Frederico!
-- 🇧🇷 I live in Brazil.
-- 👀 I’m interested in FullStack Programming, System Administration, Selfhosting/Homelab, Cryptocurrency and all privacy-related software.
-- 🌴 I’m looking to make new programmer friends.
-- 💬 Email me at: frederico@morke.org
+- - 👋 Hi, I’m Frederico!
+- - 🇧🇷 I live in Brazil.
+- - 👀 I’m interested in FullStack Programming, System Administration, Selfhosting/Homelab, Cryptocurrency and all privacy-related software.
+- - 🌴 I’m looking to make new programmer friends.
+- - 💬 Email me at: frederico@morke.org
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEgsxjGpgVlteci7X35rbvyLKZq3wFAmcHGoIACgkQ5rbvyLKZ
-q3xUDxAAs/W6EgtNM/V0SoavHGmcW90KdvCZzH3pA86ZsKVhgVPo+qd07JCHEf1B
-KkItjA/zFpgWOMGUL/xO1rpnJyfSKygQMYrYruetqko0UKL+N4EVlX9DaZ8n4uFj
-tjw/oNkKFfvCo4AY2mnmJz8hBGzmyZ9gQd4YQx/JqD3wtq/DE/C5b/Bpqd2qhKj5
-49u353aEyPHPrlgk07e9MLudB9KDQPq7MwOy2Kf18PX7mR7gPeUbLoq1QImsNGA+
-1/rAHApLVZkxnwkB7F9TgMS95X7UCX0KnF1QFuiwe6TqEvrcfZgXUvxGBy/cBlsI
-Fz9u438Oiq2MJg+KXXSHEsJZ4cH7q1RzW3+LukVXZhofJ4Ly7uQGQ6Xu7G/0v6up
-qoQLNLZa3rjeo9JQWtbbWRl4V+QwwUit/7cHvHSZWdcxTWZnA6nWVMmLwPjshRrk
-CAea8CIp8OcfWzLjrMqh1TE9J+2KzII+hLE4ZiIuZRNUNo04O5U3f09OummCXXdW
-uv3KqVtPtqQBn441Us2x9KD2DD9HAkixuRE2j2JgM3Bn/tZTxXsK/ooYqEv8yC5i
-WxnPTxQ+Bcho0eotZh3pcBuXoT97F4o1PI/Qp+VDT5rvmQK0G08shlEyEIcb4C/V
-lLoDzkJ7NA4zB3arLQ+6nahrNuog0ReoIrdgfC3bfPQlAGZNfMc=
-=6txf
+iQIzBAEBCAAdFiEEgsxjGpgVlteci7X35rbvyLKZq3wFAmcHG1UACgkQ5rbvyLKZ
+q3zc1w/9E/fCi6EWNomO58+KMpAIiz4fizjL31s/jhsCMBYs/Lnrbo8mytIMR6K7
+wuE5Whlzbrou39GBi7VpVaqpoUxjd0JPrLZ3CjcUSto+Ud4LIS6OoQzEoW6A1Xky
+o84zVrdkziMvDVN2Ft9eDFg6ceQoTZLJFqoLiyhPma3qFTf5O/JI9G4tHn/UrZ7K
+d3nXngRT0YJUJHSZw6zyn2ApDhwTpVollFvwJKVxHKD9/q1XBr3+wLrnuA8ysSiL
+vsXhvF3VtiUTOR/Vwk0Xv845oMdViEAIzFjgui5GnNPJT5V3Dyn7KqYUabucvZ7L
+nlvS799WttNWzDL9BkyIXAaooRJiKsrt0WV+2Y3JvGPO1mNbycTYJONcaPKrcPO6
+viiBH75oEZSRKfNJlS7iA35oyF8e3vUyIDhKE8Yvyif3BWNDYMwESEvWoQ5YBo3Z
+xeextRn00wjm+NPMZvTdlF5o5K4gbck4FGTGL+nM3bUqu7Jor4SVCSJOSnBTffCJ
+y+/nNG5e6fsEsqecHGusgMSk32UWFjat+IaYhNyJ5rKnGmrlXBhs8zd5bAT5CQ+5
+9H7Rcm3o6ykUZAFwDN3xpjacJcyYfkg5TPo6ywYw6wS5Kr+4wLz2rMzrDvclNLDF
+hyPo2tsTjT7PN0vZjgZqt60q4F30yMQUQA3qKAglltblUgf/lww=
+=m29l
 -----END PGP SIGNATURE-----
 ```
