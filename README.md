@@ -4,7 +4,8 @@
 - - 🌴 I’m looking to make new programmer friends.
 - - 💬 Email me at: frederico@morke.org
 
-```-----BEGIN PGP SIGNED MESSAGE-----
+```
+-----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
 - 👋 Hi, I’m Frederico!
