@@ -1,11 +1,17 @@
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA256
-
 - - 👋 Hi, I’m Frederico!
 - - 🇧🇷 I live in Brazil.
 - - 👀 I’m interested in FullStack Programming, System Administration, Selfhosting/Homelab, Cryptocurrency and all privacy-related software.
 - - 🌴 I’m looking to make new programmer friends.
 - - 💬 Email me at: frederico@morke.org
+
+```-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+- 👋 Hi, I’m Frederico!
+- 🇧🇷 I live in Brazil.
+- 👀 I’m interested in FullStack Programming, System Administration, Selfhosting/Homelab, Cryptocurrency and all privacy-related software.
+- 🌴 I’m looking to make new programmer friends.
+- 💬 Email me at: frederico@morke.org
 -----BEGIN PGP SIGNATURE-----
 
 iQIzBAEBCAAdFiEEgsxjGpgVlteci7X35rbvyLKZq3wFAmcHGoIACgkQ5rbvyLKZ
@@ -22,3 +28,4 @@ WxnPTxQ+Bcho0eotZh3pcBuXoT97F4o1PI/Qp+VDT5rvmQK0G08shlEyEIcb4C/V
 lLoDzkJ7NA4zB3arLQ+6nahrNuog0ReoIrdgfC3bfPQlAGZNfMc=
 =6txf
 -----END PGP SIGNATURE-----
+```
