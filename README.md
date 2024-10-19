@@ -1,5 +1,5 @@
-- - 👋 Hi, I’m Frederico!
-- - 🇧🇷 I live in Brazil.
-- - 👀 I’m interested in FullStack Programming, System Administration, Selfhosting/Homelab, Cryptocurrency and all privacy-related software.
-- - 🌴 I’m looking to make new programmer friends.
-- - 💬 Email me at: frederico@morke.org
+-  👋 Hi, I’m Frederico!
+-  🇧🇷 I live in Brazil.
+-  👀 I’m interested in FullStack Programming, System Administration, Selfhosting/Homelab, Cryptocurrency and all privacy-related software.
+-  🌴 I’m looking to make new programmer friends.
+-  💬 Email me at: frederico@morke.org
